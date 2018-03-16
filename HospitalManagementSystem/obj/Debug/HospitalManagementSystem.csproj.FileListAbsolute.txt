@@ -1,0 +1,35 @@
+c:\users\asus\documents\visual studio 2015\Projects\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+c:\users\asus\documents\visual studio 2015\Projects\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+c:\users\asus\documents\visual studio 2015\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.login.resources
+c:\users\asus\documents\visual studio 2015\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.exe
+c:\users\asus\documents\visual studio 2015\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
+C:\Users\ASUS\documents\visual studio 2015\Projects\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Biplob\Downloads\Compressed\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe.config
+C:\Users\Biplob\Downloads\Compressed\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.exe
+C:\Users\Biplob\Downloads\Compressed\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
+C:\Users\Biplob\Downloads\Compressed\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+C:\Users\Biplob\Downloads\Compressed\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+C:\Users\Biplob\Downloads\Compressed\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Biplob\Downloads\Compressed\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Biplob\Downloads\Compressed\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.login.resources
+C:\Users\Biplob\Downloads\Compressed\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Properties.Resources.resources
+C:\Users\Biplob\Downloads\Compressed\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Biplob\Downloads\Compressed\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Main.resources
+C:\Users\Biplob\Downloads\Compressed\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.SignUp.resources
+D:\BIP [CSE]\Summer 16-17\C#\VS works\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe.config
+D:\BIP [CSE]\Summer 16-17\C#\VS works\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.exe
+D:\BIP [CSE]\Summer 16-17\C#\VS works\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
+D:\BIP [CSE]\Summer 16-17\C#\VS works\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+D:\BIP [CSE]\Summer 16-17\C#\VS works\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+D:\BIP [CSE]\Summer 16-17\C#\VS works\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\Oracle.DataAccess.dll
+D:\BIP [CSE]\Summer 16-17\C#\VS works\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csprojResolveAssemblyReference.cache
+D:\BIP [CSE]\Summer 16-17\C#\VS works\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.login.resources
+D:\BIP [CSE]\Summer 16-17\C#\VS works\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Properties.Resources.resources
+D:\BIP [CSE]\Summer 16-17\C#\VS works\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.SignUp.resources
+D:\BIP [CSE]\Summer 16-17\C#\VS works\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.GenerateResource.Cache
+D:\BIP [CSE]\Summer 16-17\C#\VS works\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.MDIParent1.resources
+D:\BIP [CSE]\Summer 16-17\C#\VS works\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.MainWindow.resources
